@@ -226,7 +226,7 @@ While inside the `/var/www/html` directory, run: `sudo nano credentials.php`
 
 Edit this file to match the username and password you created for your database.
 
-Now, go to the website and try to create a new employee. 
+Now, go to the website and try to create or update a new employee.
 
 If you get "MySQL Connection Succeeded", the credentials file was correctly edited.
 
